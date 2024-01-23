@@ -1,5 +1,10 @@
 # Guided Inquiry: React Week 3
 
+## How-to
+
+- npm i (to install dependencies)
+- npm start
+
 ## EASY:
 
 Create a simple counter app using React hooks. Implement the buttons to Increment and
